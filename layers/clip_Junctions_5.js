@@ -1,0 +1,1 @@
+var json_clip_Junctions_5 = {"type":"FeatureCollection","name":"clip_Junctions_5","features":[{"type":"Feature","properties":{"Id":0.0,"Jn_Name":"MEENANGADI","District":"Wayanad","Name":"MEENANGADI"},"geometry":{"type":"Point","coordinates":[1017844.250467263394967,1091380.383127238135785]}}]}
